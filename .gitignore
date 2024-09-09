@@ -1,0 +1,9 @@
+.config/github-copilot
+.config/zed/conversations/
+.config/zed/embeddings/
+.config/zed/prmopts/
+.config/zed/prompts/prompts-library-db.0.mdb
+.config/zed/themes/
+.tmp*
+.nvimlog*
+*.DS_Store
