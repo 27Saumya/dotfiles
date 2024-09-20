@@ -7,9 +7,9 @@ error_symbol = "[❯](red)"
 vimcmd_symbol = "[❮](green)"
 
 [cmd_duration]
-format = "[$duration]($style) "
+format = "[$duration]($style)"
 style = "yellow"
 
 [python]
-format = "[$virtualenv]($style)"
+format = "[$virtualenv]($style) "
 style = "bright-green"

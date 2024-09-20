@@ -7,3 +7,4 @@
 .tmp*
 .nvimlog*
 *.DS_Store
+**__pycache__/
