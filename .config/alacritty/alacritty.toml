@@ -1,3 +1,5 @@
+import = ["~/dotfiles/.config/alacritty/themes/aura/aura.toml"]
+
 [env]
 TERM = "xterm-256color"
 
@@ -13,7 +15,7 @@ family = "Fira Code"
 [window]
 startup_mode = "Windowed"
 dynamic_padding = false
-opacity = 0.70
+opacity = 0.77
 blur = true
 decorations = "buttonless"
 
@@ -21,30 +23,30 @@ decorations = "buttonless"
 x = 12
 y = 12
 
-[colors.primary]
-background = "#161617"
-foreground = "#c9c7cd"
+# [colors.primary]
+# background = "#161617"
+# foreground = "#c9c7cd"
 
-[colors.cursor]
-text = "#c9c7cd"
-cursor = "#757581"
+# [colors.cursor]
+# text = "#c9c7cd"
+# cursor = "#757581"
 
-[colors.normal]
-black = "#27272a"
-red = "#f5a191"
-green = "#90b99f"
-yellow = "#e6b99d"
-blue = "#aca1cf"
-magenta = "#e29eca"
-cyan = "#ea83a5"
-white = "#c1c0d4"
+# [colors.normal]
+# black = "#27272a"
+# red = "#f5a191"
+# green = "#90b99f"
+# yellow = "#e6b99d"
+# blue = "#aca1cf"
+# magenta = "#e29eca"
+# cyan = "#ea83a5"
+# white = "#c1c0d4"
 
-[colors.bright]
-black = "#353539"
-red = "#ffae9f"
-green = "#9dc6ac"
-yellow = "#f0c5a9"
-blue = "#b9aeda"
-magenta = "#ecaad6"
-cyan = "#f591b2"
-white = "#cac9dd"
+# [colors.bright]
+# black = "#353539"
+# red = "#ffae9f"
+# green = "#9dc6ac"
+# yellow = "#f0c5a9"
+# blue = "#b9aeda"
+# magenta = "#ecaad6"
+# cyan = "#f591b2"
+# white = "#cac9dd"
