@@ -1,4 +1,9 @@
 return {
   -- discord rich presence
-  { "andweeb/presence.nvim" },
+  {
+    "andweeb/presence.nvim",
+    opts = {
+      blacklist = { "cricket-guru" },
+    },
+  },
 }
