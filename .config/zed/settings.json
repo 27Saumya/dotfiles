@@ -17,6 +17,7 @@
   "show_inline_completions": true,
   "languages": {
     "Python": {
+      "format_on_save": "off",
       "show_inline_completions": true
     }
   },
